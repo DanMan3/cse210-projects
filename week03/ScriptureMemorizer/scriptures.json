@@ -1,0 +1,76 @@
+{
+    "scriptures": [
+        {
+            "id": 1,
+            "book": "John",
+            "chapter": 3,
+            "verse": 16,
+            "end-verse": null,
+            "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+        },
+        {
+            "id": 2,
+            "book": "Psalm",
+            "chapter": 23,
+            "verse": 1,
+            "end-verse": 6,
+            "text": "The Lord is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me beside the still waters. He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake. Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me. Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever."
+        },
+        {
+            "id": 3,
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 1,
+            "end-verse": null,
+            "text": "In the beginning God created the heaven and the earth."
+        },
+        {
+            "id": 5,
+            "book": "Romans",
+            "chapter": 8,
+            "verse": 28,
+            "end-verse": null,
+            "text": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
+        },
+        {
+            "id": 6,
+            "book": "1 Nephi",
+            "chapter": 3,
+            "verse": 7,
+            "end-verse": null,
+            "text": "And it came to pass that I, Nephi, said unto my father: I will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them."
+        },
+        {
+            "id": 7,
+            "book": "2 Nephi",
+            "chapter": 2,
+            "verse": 25,
+            "end-verse": null,
+            "text": "Adam fell that men might be; and men are, that they might have joy."
+        },
+        {
+            "id": 8,
+            "book": "Alma",
+            "chapter": 32,
+            "verse": 21,
+            "end-verse": null,
+            "text": "And now as I said concerning faith—faith is not to have a perfect knowledge of things; therefore if ye have faith ye hope for things which are not seen, which are true."
+        },
+        {
+            "id": 9,
+            "book": "Alma",
+            "chapter": 5,
+            "verse": 14,
+            "end-verse": 16,
+            "text": "And now behold, I ask of you, my brethren of the church, have ye spiritually been born of God? Have ye received his image in your countenances? Have ye experienced this mighty change in your hearts? Do ye exercise faith in the redemption of him who created you? Do you look forward with an eye of faith, and view this mortal body raised in immortality, and this corruption raised in incorruption, to stand before God to be judged according to the deeds which have been done in the mortal body? I say unto you, can you imagine to yourselves that ye hear the voice of the Lord, saying unto you, in that day: Come unto me ye blessed, for behold, your works have been the works of righteousness upon the face of the earth?"
+        },
+        {
+            "id": 10,
+            "book": "Moroni",
+            "chapter": 10,
+            "verse": 4,
+            "end-verse": 5,
+            "text": "And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost. And by the power of the Holy Ghost ye may know the truth of all things."
+        }
+    ]
+}
