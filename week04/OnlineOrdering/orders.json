@@ -1,0 +1,86 @@
+[
+    {
+        "orderId": 1001,
+        "customer": {
+            "name": "Alice Smith",
+            "address": {
+                "streetAddress": "123 Main St",
+                "city": "Anytown",
+                "stateOrProvince": "NY",
+                "country": "USA"
+            }
+        },
+        "products": [
+            {
+                "name": "Widget",
+                "id": 1,
+                "price": 9.99,
+                "quantity": 3.0
+            },
+            {
+                "name": "Gizmo",
+                "id": 2,
+                "price": 14.54,
+                "quantity": 1.0
+            }
+        ]
+    },
+    {
+        "orderId": 1002,
+        "customer": {
+            "name": "Bob Jones",
+            "address": {
+                "streetAddress": "456 Oak Ave",
+                "city": "Toronto",
+                "stateOrProvince": "ON",
+                "country": "Canada"
+            }
+        },
+        "products": [
+            {
+                "name": "Paperbacks - \"Intro to C#\"",
+                "id": 3,
+                "price": 12.21,
+                "quantity": 2.0
+            },
+            {
+                "name": "Pen Set",
+                "id": 6,
+                "price": 5.50,
+                "quantity": 3.0
+            },
+            {
+                "name": "Planner",
+                "id": 7,
+                "price": 18.00,
+                "quantity": 1.0
+            }
+        ]
+    },
+    {
+        "orderId": 1003,
+        "customer": {
+            "name": "Clara Zhao",
+            "address": {
+                "streetAddress": "789 Pine Rd",
+                "city": "Seattle",
+                "stateOrProvince": "WA",
+                "country": "usa"
+            }
+        },
+        "products": [
+            {
+                "name": "Coffee Mug",
+                "id": 4,
+                "price": 7.52,
+                "quantity": 4.0
+            },
+            {
+                "name": "Notebook",
+                "id": 5,
+                "price": 3.25,
+                "quantity": 5.0
+            }
+        ]
+    }
+]
