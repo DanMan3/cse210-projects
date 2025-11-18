@@ -37,23 +37,23 @@ public class Video
         return commentsList;
     }
 
-    public string getTitle()
+    public string GetTitle()
     {
         return _title;
     }
 
-    public string getAuthor()
+    public string GetAuthor()
     {
         return _author;
     }
 
-    public int getLength()
+    public int GetLength()
     {
 
         return GetLengthInSeconds();
     }
 
-    public List<Comment> getComments()
+    public List<Comment> GetComments()
     {
         return _comments;
     }
@@ -80,6 +80,11 @@ public class Video
         }
 
         return total;
+    }
+
+    public int GetCommentCount()
+    {
+        return _comments.Count;
     }
 
 

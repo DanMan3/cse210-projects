@@ -15,19 +15,21 @@ class Program
         Console.Clear();
         foreach (var video in constructedVideos)
         {
-            Console.WriteLine($"Title: {video.getTitle()}");
-            Console.WriteLine($"Author: {video.getAuthor()}");
-            Console.WriteLine($"Length (sec): {video.getLength()}");
+            Console.WriteLine($"Title: {video.GetTitle()}");
+            Console.WriteLine($"Author: {video.GetAuthor()}");
+            Console.WriteLine($"Length (sec): {video.GetLength()}");
+            Console.WriteLine($"Number of comments: {video.GetCommentCount()}");
+
             Console.WriteLine();
 
             Console.WriteLine("------ Comments ------");
-            var comments = video.getComments();
+            var comments = video.GetComments();
 
             foreach (var comment in comments)
             {
                 Console.WriteLine();
-                Console.WriteLine(comment.getCommenterName());
-                Console.WriteLine(comment.getText());
+                Console.WriteLine(comment.GetCommenterName());
+                Console.WriteLine(comment.GetText());
             }
             Console.WriteLine();
             Console.WriteLine("____________________");

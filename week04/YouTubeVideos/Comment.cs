@@ -12,12 +12,12 @@ public class Comment
     }
 
 
-    public string getCommenterName()
+    public string GetCommenterName()
     {
         return _commenterName;
     }
 
-    public string getText()
+    public string GetText()
     {
         return _text;
     }
