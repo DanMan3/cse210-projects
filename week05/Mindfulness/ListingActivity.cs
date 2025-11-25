@@ -43,6 +43,7 @@ public class ListingActivity : Activity
         ShowCountDown(3);
         Console.WriteLine();
 
+        _count = 0;
 
         DateTime startTime = DateTime.Now;
         DateTime endTime = startTime.AddSeconds(duration);
