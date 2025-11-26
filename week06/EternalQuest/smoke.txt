@@ -1,0 +1,4 @@
+1500
+SimpleGoal:Simple goal;Simple goal;100;True
+EternalGoal:Eternal Goal;Eternal Goal;500;1
+ChecklistGoal:Checklist Goal;Checklist Goal;100;3;500;4;
